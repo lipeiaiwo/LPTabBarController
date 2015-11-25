@@ -2,6 +2,7 @@
 这个是一套纯代码的主框架,使用非常简单,只需要创建对应的控制器,然后就可以了.
 
 使用步骤:
+
 1.在AppDelegate里面写上
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
@@ -48,4 +49,4 @@
     
     
     
-    到此就全部结束了. 具体的请看demo.里面更详细
+    到此就全部结束了. 具体的请看demo.里面更详细.
