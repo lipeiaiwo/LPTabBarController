@@ -7,7 +7,7 @@
 ###test###
 [
 
-{"title":"第一弹视频","bundleId":"com.lptest.dyd","isADOpen":"1","AdChance":"10"},
+{"title":"第一弹视频","bundleId":"com.lptest.dyd","isADOpen":"1","AdChance":"3"},
 {"title":"德玛西亚","bundleId":"com.lptest.dyd","isADOpen":"0","AdChance":"3"},
 
 ]
