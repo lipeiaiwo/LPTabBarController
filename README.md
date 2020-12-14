@@ -1,7 +1,7 @@
 ###test###
 {
 "ret":"0",
-"info":[{"id":"1","up":"0","title":"第一弹视频"},
-        {"id":"2","up":"0","title":"啦啦啦"}]
+"info":[{"appId":"1","isADOpen":"0","title":"第一弹视频"},
+        {"appId":"2","isADOpen":"0","title":"啦啦啦"}]
 }
 ###test###
