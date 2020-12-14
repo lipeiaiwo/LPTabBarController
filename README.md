@@ -1,8 +1,14 @@
+/**
+ *  title    APP名称
+ *  bundleId bundleId
+ *  isADOpen 广告是否开启 不是启动广告 启动广告默认开启不可控制
+ *  AdChance 广告几率(10%-100%),取值1-10,数值越高,广告几率越高,0没有广告,10百分百广告 isADOpen不开启没效果
+ */
 ###test###
 [
 
-{"appId":"1","isADOpen":"1","title":"第一弹视频"},
-{"appId":"2","isADOpen":"0","title":"啦啦啦"}
+{"title":"第一弹视频","bundleId":"1","isADOpen":"1","AdChance":"10"},
+{"title":"德玛西亚","bundleId":"1","isADOpen":"0","AdChance":"3"},
 
 ]
 ###test###
