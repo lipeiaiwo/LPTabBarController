@@ -17,7 +17,7 @@
 "data":[
 {"title":"支付宝","bundleId":"com.lptest.dyd","url":"https://apps.apple.com/cn/app/id333206289"},
 {"title":"微信","bundleId":"com.lptest.dyd","url":"https://apps.apple.com/cn/app/id414478124"},
-{"title":"淘宝","bundleId":"com.lptest.dyd","url":"https://apps.apple.com/cn/app/id387682726"},
+{"title":"淘宝","bundleId":"com.lptest.bz","url":"https://apps.apple.com/cn/app/id387682726"},
 {"title":"美团","bundleId":"com.lptest.dyd","url":"https://apps.apple.com/cn/app/id423084029"}
 ]
 }}
