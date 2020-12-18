@@ -11,6 +11,16 @@
 {"title":"第一弹视频","bundleId":"com.lptest.dyd","isADOpen":"0","AdChance":"5"},
 {"title":"德玛西亚","bundleId":"com.lptest.dyd","isADOpen":"0","AdChance":"3"},
 {"title":"壁纸","bundleId":"com.lptest.bz","isADOpen":"0","AdChance":"5"}
+]}
+
+###test###
+
+{
+
+"adStatus":[
+{"title":"第一弹视频","bundleId":"com.lptest.dyd","isADOpen":"0","AdChance":"5"},
+{"title":"德玛西亚","bundleId":"com.lptest.dyd","isADOpen":"0","AdChance":"3"},
+{"title":"壁纸","bundleId":"com.lptest.bz","isADOpen":"0","AdChance":"5"}
 ],
 
 "APP":{"title":"广告太多?来看看不要广告的APP",
@@ -21,5 +31,3 @@
 {"title":"美团","bundleId":"com.lptest.dyd","url":"https://apps.apple.com/cn/app/id423084029"}
 ]
 }}
-
-###test###
