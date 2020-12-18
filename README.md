@@ -10,7 +10,7 @@
 "adStatus":[
 {"title":"第一弹视频","bundleId":"com.lptest.dyd","isADOpen":"0","AdChance":"5","BUADAPPID":"","BUADSLOTID":"2222222","BUADSVIDEOLOTID":"333333"},
 {"title":"德玛西亚","bundleId":"com.lptest.dyd","isADOpen":"0","AdChance":"3","BUADAPPID":"","BUADSLOTID":"2222222","BUADSVIDEOLOTID":"333333"},
-{"title":"壁纸","bundleId":"com.lptest.bz","isADOpen":"0","AdChance":"5","BUADAPPID":"","BUADSLOTID":"2222222","BUADSVIDEOLOTID":"333333"}
+{"title":"壁纸","bundleId":"com.lptest.bz","isADOpen":"1","AdChance":"5","BUADAPPID":"","BUADSLOTID":"2222222","BUADSVIDEOLOTID":"333333"}
 ]}
 
 ###test###
