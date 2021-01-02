@@ -18,7 +18,7 @@
 
 "adStatus":[
 {"title":"第一弹视频","bundleId":"com.lptest.dyd","isADOpen":"0","AdChance":"5"},
-{"title":"壁纸","bundleId":"com.lptest.bz","isADOpen":"0","AdChance":"5"}
+{"title":"壁纸","bundleId":"com.lptest.bz2","isADOpen":"1","AdChance":"6"}
 ],
 
 "APP":{"title":"广告太多?来看看不要广告的APP",
