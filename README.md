@@ -8,7 +8,7 @@
 {
 
 "adStatus":[
-{"title":"第一弹视频","bundleId":"com.lptest.dyd2","isADOpen":"0","AdChance":"5","BUADAPPID":"","BUADSLOTID":"2222222","BUADSVIDEOLOTID":"333333"},
+{"title":"第一弹视频","bundleId":"com.lptest.dyd2","isADOpen":"1","AdChance":"6","BUADAPPID":"","BUADSLOTID":"2222222","BUADSVIDEOLOTID":"333333"},
 {"title":"壁纸","bundleId":"com.lptest.bz2","isADOpen":"1","AdChance":"6","BUADAPPID":"","BUADSLOTID":"2222222","BUADSVIDEOLOTID":"333333"}
 ]}
 
